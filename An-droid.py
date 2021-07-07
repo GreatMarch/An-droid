@@ -245,4 +245,4 @@ async def 목록재생(ctx):
         else:
             await ctx.send("이미 틀고 있잖아.")
 
-bot.run('ODU0Mzc3MTYyMTA2MDc3MTk1.YMjCvQ.oze2GGz4Kvy50JqzmGYTdIRnRN0')
+bot.run('ODU0Mzc3MTYyMTA2MDc3MTk1.YMjCvQ.CZVK6DixuIkXuLCzlRC-rLhVQ9g')
