@@ -140,7 +140,7 @@ async def p(ctx, *, msg):
         user.append(msg)
         result, URLTEST = title(msg)
         song_queue.append(URLTEST)
-        await ctx.send("result + "을(를) 대기열에 추가함.")
+        await ctx.send("result + 을(를) 대기열에 추가함")
 
 @bot.command()
 async def pause(ctx):
@@ -245,4 +245,4 @@ async def 목록재생(ctx):
         else:
             await ctx.send("이미 틀고 있잖아.")
 
-bot.run('ODU0Mzc3MTYyMTA2MDc3MTk1.YMjCvQ.cwEKxqaz-iHcKSnblkv1I0PRICU')
+bot.run('ODU0Mzc3MTYyMTA2MDc3MTk1.YMjCvQ.oze2GGz4Kvy50JqzmGYTdIRnRN0')
